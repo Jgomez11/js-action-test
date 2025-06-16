@@ -1,4 +1,4 @@
-name: 'Hello World JS Action by JG'
+name: 'Hello World Javascript Action by jairogomz'
 description: 'Greet someone and record the time'
 inputs:
   who-to-greet:  # id of input
